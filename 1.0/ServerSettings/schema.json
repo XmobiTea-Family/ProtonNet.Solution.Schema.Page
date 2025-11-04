@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://schema.protonnetserver.com/1.0/ServerSettings/schema.json",
+    "$id": "https://schema.protonserver.net/1.0/ServerSettings/schema.json",
     "title": "Server Configuration Schema",
     "description": "Schema for ProtonNetServerSettings configuration file for SocketServer with validation rules. Some fields are conditionally required based on the values of other fields.",
     "type": "object",
